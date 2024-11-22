@@ -32,3 +32,5 @@ To add: for ex3, I also made a /beamng command that gives you info about vehicle
 I also sometimes write subtitles using [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit). It's pretty fun. 
 
 Thank you for reading this!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exerinity)](https://github.com/anuraghazra/github-readme-stats)
