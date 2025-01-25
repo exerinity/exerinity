@@ -1,4 +1,3 @@
-# Hi
 There are 40 million average active people on GitHub every month. And you stopped here. The possibility of that happening is 0.0000025%. Unless you purposely clicked on it. Anyway...
 
 # What I do
