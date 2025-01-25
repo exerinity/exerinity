@@ -21,5 +21,7 @@ https://ex3.lol/pigeon
 # Licensing
 Usually I'd publish everything under the public domain, creative commons, WTFPL, or another highly permissive license. My code isn't worthy a protective license.
 
+![](https://media1.tenor.com/m/RL0-tTg3QOQAAAAd/oh-no.gif)
+
 # Contact
 https://ex3.lol/email
