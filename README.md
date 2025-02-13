@@ -25,3 +25,4 @@ Usually I'd publish everything under the public domain, creative commons, WTFPL,
 
 # Contact
 https://ex3.lol/email
+[![Discord Presence](https://lanyard.cnrad.dev/api/683100147512770602)](https://discord.com/users/683100147512770602)
