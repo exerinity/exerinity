@@ -27,4 +27,4 @@ Usually I'd publish everything under the public domain, creative commons, WTFPL,
 https://ex3.lol/email
 
 ##
-[![Discord Presence](https://lanyard.cnrad.dev/api/683100147512770602)](https://discord.com/users/683100147512770602)
+[![Discord Presence](https://lanyard.cnrad.dev/api/683100147512770602)](https://sp.ex3.lol/status)
