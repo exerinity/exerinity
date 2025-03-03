@@ -3,7 +3,7 @@ There are 40 million average active people on GitHub every month. And you stoppe
 # What I do
 JavaScript.. that's pretty much it. I've been doing random stuff in JS since 2019. Discord bots mainly, but I've shifted my focus to web pages. Both are cool.
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,nodejs,discordjs,linux,twitter,vscode,windows,workers)](https://skillicons.dev)
 
 # Things I made
 - **ex3**: Multi-functional Discord bot
