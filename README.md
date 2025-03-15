@@ -2,11 +2,10 @@ This is where I dump some of my projects. I only use JavaScript for programming 
 
 # Things I made
 ## Discord bots
-- **ex3**: Multi-functional Discord bot
-https://ex3.lol/ex3
-- **pigeon**: AI chatbot Discord bot
-https://ex3.lol/pigeon
+- [**ex3**](https://ex3.lol/ex3): Multi-functional Discord bot
+- [**pigeon**](https://ex3.lol/pigeon): AI chatbot Discord bot
 - **clifford**: Private vanguard for my Discord server
+- [**elysion**](https://github.com/exerinity/elysion): extremely lightweight bot to display info about a guild and server (basically exposes some technical hidden info not shown by your client)
 ## Pages
 - [**chat**](https://chat.ex3.lol): basic AI chatbot interface, based off pigeon
 - [**ex3.lol**](https://ex3.lol): My website ([the source is here!](https://github.com/exerinity/ex3.lol))
@@ -18,7 +17,8 @@ https://ex3.lol/pigeon
 - [**Metadata extractor**](https://metadata.ex3.lol/?site=): extracts metadata from sites
 - [**AI art generator**](https://aigen.ex3.lol/?prompt=): generates an AI image
 ## Miscellaneous
-- [Days left of the year twitterbot](https://twitter.com/daysleft_202_)
+- [**Days left of the year twitterbot**](https://twitter.com/daysleft_202_): a bot that posts at midnight UTC every day how many days are left of the year
+(please read its expanded bio for more info)
 
 # Contact
 https://ex3.lol/email
