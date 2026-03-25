@@ -9,16 +9,32 @@ My GitHub is pretty barebones, and I apologize in advance for my vague commit na
 I have no idea what else to put here, so just visit https://exerinity.com, I guess...
 
 ### https://exerinity.com https://exerinity.com https://exerinity.com https://exerinity.com
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![exerinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="ovi" />
 <img src="https://komarev.com/ghpvc/?username=exerinity&color=brightgreen" alt="watching_count" />
 
-![](https://meow.exerinity.gay/aimlink.gif)
-[![](https://meow.exerinity.gay/amazing_free_stuff.gif)](https://mypayindia.com)
-![](https://meow.exerinity.gay/amd_now.gif)
-[![](https://meow.exerinity.gay/cs.gif)](https://x.com/exerinity9)
-![](https://meow.exerinity.gay/12men.gif)
-![](https://meow.exerinity.gay/animegay.gif)
-![](https://meow.exerinity.gay/meoow.gif)
-![](https://meow.exerinity.gay/phonechump.gif)
+![](https://i.exerinity.com/aimlink.gif)
+[![](https://i.exerinity.com/amazing_free_stuff.gif)](https://mypayindia.com)
+![](https://i.exerinity.com/amd_now.gif)
+[![](https://i.exerinity.com/cutesocks.gif)](https://x.com/exerinity9)
+![](https://i.exerinity.com/12men.gif)
+![](https://i.exerinity.com/animegay.gif)
+![](https://i.exerinity.com/meoow.gif)
+![](https://i.exerinity.com/phonechump.gif)
+![](https://i.exerinity.com/cs.gif)
+![](https://i.exerinity.com/archlinux.gif)
+
+[![](https://i.exerinity.com/discord.gif)](https://discord.com)
+![](https://i.exerinity.com/meow.gif)
+![](https://i.exerinity.com/femboy.gif)
+[![](https://i.exerinity.com/foobar2000.gif)](https://foobar2000.org)
+[![](https://i.exerinity.com/twitter.gif)](https://twitter.com)
+[![](https://i.exerinity.com/linux.gif)](https://kernel.org)
+[![](https://i.exerinity.com/winamp%20%28copy%201%29.gif)](https://winamp.com)
+![](https://i.exerinity.com/nya2.gif)
+![](https://i.exerinity.com/jobsritchie.gif)
+![](https://capstasher.neocities.org/88x31Buttons/javascript.gif)
+
 
 Avatar source: https://www.dearsusan.net/2015/02/26/329-every-story-tells-a-picture-cloudy-orion-otus-style/ (the first photo)
