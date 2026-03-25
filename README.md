@@ -20,3 +20,5 @@ I have no idea what else to put here, so just visit https://exerinity.com, I gue
 ![](https://meow.exerinity.gay/animegay.gif)
 ![](https://meow.exerinity.gay/meoow.gif)
 ![](https://meow.exerinity.gay/phonechump.gif)
+
+Avatar source: https://www.dearsusan.net/2015/02/26/329-every-story-tells-a-picture-cloudy-orion-otus-style/ (the first photo)
