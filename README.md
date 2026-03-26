@@ -27,12 +27,12 @@ I have no idea what else to put here, so just visit https://exerinity.com, I gue
 [![](https://i.exerinity.com/discord.gif)](https://discord.com)
 ![](https://i.exerinity.com/meow.gif)
 ![](https://i.exerinity.com/femboy.gif)
-[![](https://meow.exerinity.gay/voxity.gif)](https://voxity.dev)
+[![](https://i.exerinity.com/voxity.gif)](https://voxity.dev)
 [![](https://i.exerinity.com/twitter.gif)](https://twitter.com)
 [![](https://i.exerinity.com/linux.gif)](https://kernel.org)
-![](https://meow.exerinity.gay/piracy.gif)
-![](https://meow.exerinity.gay/seedyourtorrents.gif)
-![](https://meow.exerinity.gay/javascript.gif)
+![](https://i.exerinity.com/piracy.gif)
+![](https://i.exerinity.com/seedyourtorrents.gif)
+![](https://i.exerinity.com/javascript.gif)
 
 
 Avatar source: https://www.dearsusan.net/2015/02/26/329-every-story-tells-a-picture-cloudy-orion-otus-style/ (the first photo)
