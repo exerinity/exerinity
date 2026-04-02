@@ -1,4 +1,4 @@
-# haii!!! :33 haiii ^_^ hewwo!!1!1! >////< 
+# haii!!! :33 haiii ^_^ hewwo!!1!1! >\_<  :333333
 My GitHub is pretty barebones, and I apologize in advance for my vague commit names ("***__m__***"), but I prefer to track changes internally:
 
 - For Voxity, click "Release notes" inside the app or visit [standalone (i/release_notes)](https://voxity.dev/i/release_notes)
@@ -8,11 +8,8 @@ My GitHub is pretty barebones, and I apologize in advance for my vague commit na
 
 I have no idea what else to put here, so just visit https://exerinity.com, I guess...
 
-### https://exerinity.com https://exerinity.com https://exerinity.com https://exerinity.com
+### https://exerinity.com https://exerinity.gay https://exerinity.com https://exerinity.gay
 [![exerinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="ovi" />
-<img src="https://komarev.com/ghpvc/?username=exerinity&color=brightgreen" alt="watching_count" />
 
 ![](https://i.exerinity.com/aimlink.gif)
 [![](https://i.exerinity.com/amazing_free_stuff.gif)](https://mypayindia.com)
@@ -27,7 +24,7 @@ I have no idea what else to put here, so just visit https://exerinity.com, I gue
 [![](https://i.exerinity.com/discord.gif)](https://discord.com)
 ![](https://i.exerinity.com/meow.gif)
 ![](https://i.exerinity.com/femboy.gif)
-[![](https://i.exerinity.com/voxity.gif)](https://voxity.dev)
+[![](https://i.exerinity.com/voxitynow_purp.gif)](https://voxity.dev)
 [![](https://i.exerinity.com/twitter.gif)](https://twitter.com)
 [![](https://i.exerinity.com/linux.gif)](https://kernel.org)
 ![](https://i.exerinity.com/piracy.gif)
