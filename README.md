@@ -1,20 +1,33 @@
 # haii!!! :33 haiii ^_^ hewwo!!1!1! >\_<  :333333
-My GitHub is pretty barebones, and I apologize in advance for my vague commit names ("***__m__***"), but I prefer to track changes internally:
+I like JavaScript, I guess... very cool and unique..
 
-- For Voxity, click "Release notes" inside the app or visit [standalone (i/release_notes)](https://voxity.dev/i/release_notes)
-- For my website (.com), scroll down and expand "release notes"
-- For the [MyPayIndia PWA](https://app.mypayindia.com), go to the [Release notes view](https://app.mypayindia.com/release_notes)
-- Or just open your eyes and look at the differences, I am not a rocket scientist
+## Main projects
+- [Voxity](https://github.com/exerinity/voxity)
+- [escope](https://github.com/exerinity/escope)
+- [MyPayIndia PWA](https://github.com/MyPayIndiaDevs/pwa)
 
-I have no idea what else to put here, so just visit https://exerinity.com, I guess...
+### Organizations
+- [MyPayIndia](https://mypayindia.com): developer ([PWA](https://github.com/MyPayIndiaDevs/pwa))
+- [EX3 Corporation](https://corp.ex3.lol): founder, CEO, developer...
 
-### https://exerinity.com https://exerinity.gay https://exerinity.com https://exerinity.gay
+I have no idea what else to put here, so just visit https://exerinity.gay, I guess...
+
+### List of domains
+- https://voxity.dev: [Voxity](https://github.com/exerinity/voxity)
+- https://escp.lol: [escope](https://github.com/exerinity/escope)
+- https://ex3.icu: Website for [ex3](https://exerinity.com/projects/ex3)
+- https://exerinity.com: [this](https://github.com/exerinity/exerinity.com)
+- https://exerinity.gay: [Onyx](https://github.com/exerinity/onyx)
+- https://ex3.lol: Old, legacy website
+  
 [![exerinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt)
 
 ![](https://i.exerinity.com/aimlink.gif)
 [![](https://i.exerinity.com/amazing_free_stuff.gif)](https://mypayindia.com)
 ![](https://i.exerinity.com/amd_now.gif)
-[![](https://i.exerinity.com/cutesocks.gif)](https://x.com/exerinity9)
+![](https://i.exerinity.com/cutesocks.gif)
 ![](https://i.exerinity.com/animegay.gif)
 ![](https://i.exerinity.com/meoow.gif)
 ![](https://i.exerinity.com/phonechump.gif)
@@ -30,6 +43,3 @@ I have no idea what else to put here, so just visit https://exerinity.com, I gue
 ![](https://i.exerinity.com/piracy.gif)
 ![](https://i.exerinity.com/seedyourtorrents.gif)
 ![](https://i.exerinity.com/javascript.gif)
-
-
-Avatar source: https://www.dearsusan.net/2015/02/26/329-every-story-tells-a-picture-cloudy-orion-otus-style/ (the first photo)
