@@ -2,15 +2,15 @@
 I like JavaScript, I guess... very cool and unique..
 
 ## Main projects
-- [Voxity](https://github.com/exerinity/voxity)
-- [escope](https://github.com/exerinity/escope)
-- [MyPayIndia PWA](https://github.com/MyPayIndiaDevs/pwa)
+- [Voxity](https://github.com/exerinity/voxity) ([go](https://voxity.dev))
+- [escope](https://github.com/exerinity/escope) ([go](https://escp.lol))
+- [MyPayIndia PWA](https://github.com/MyPayIndiaDevs/pwa) ([go](https://app.mypayindia.com))
 
 ### Organizations
 - [MyPayIndia](https://mypayindia.com): developer ([PWA](https://github.com/MyPayIndiaDevs/pwa))
 - [EX3 Corporation](https://corp.ex3.lol): founder, CEO, developer...
 
-I have no idea what else to put here, so just visit https://exerinity.gay, I guess...
+I have no idea what else to put here, so just visit https://exerinity.gay or https://exerinity.com, I guess...
 
 ### List of domains
 - https://voxity.dev: [Voxity](https://github.com/exerinity/voxity)
@@ -23,23 +23,3 @@ I have no idea what else to put here, so just visit https://exerinity.gay, I gue
 [![exerinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt)
-
-![](https://i.exerinity.com/aimlink.gif)
-[![](https://i.exerinity.com/amazing_free_stuff.gif)](https://mypayindia.com)
-![](https://i.exerinity.com/amd_now.gif)
-![](https://i.exerinity.com/cutesocks.gif)
-![](https://i.exerinity.com/animegay.gif)
-![](https://i.exerinity.com/meoow.gif)
-![](https://i.exerinity.com/phonechump.gif)
-![](https://i.exerinity.com/cs.gif)
-![](https://i.exerinity.com/archlinux.gif)
-
-[![](https://i.exerinity.com/discord.gif)](https://discord.com)
-![](https://i.exerinity.com/meow.gif)
-![](https://i.exerinity.com/femboy.gif)
-[![](https://i.exerinity.com/voxitynow_purp.gif)](https://voxity.dev)
-[![](https://i.exerinity.com/twitter.gif)](https://twitter.com)
-[![](https://i.exerinity.com/linux.gif)](https://kernel.org)
-![](https://i.exerinity.com/piracy.gif)
-![](https://i.exerinity.com/seedyourtorrents.gif)
-![](https://i.exerinity.com/javascript.gif)
