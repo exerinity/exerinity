@@ -21,6 +21,6 @@ I have no idea what else to put here, so just visit https://exerinity.gay or htt
 - https://exerinity.gay: [Onyx](https://github.com/exerinity/onyx)
 - https://ex3.lol: Old, legacy website
   
-[![exerinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://github-readme-stats.vercel.app/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)
+[![exerinity's GitHub stats](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt)](https://github-readme-stats.vercel.app/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt&cachebuster=skibidi38934)
+[![](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt)](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt&cachebuster=skibidi38934)
