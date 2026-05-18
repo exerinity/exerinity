@@ -4,21 +4,20 @@ I like JavaScript, I guess... very cool and unique..
 ## Main projects
 - [Voxity](https://github.com/exerinity/voxity) ([go](https://voxity.dev))
 - [escope](https://github.com/exerinity/escope) ([go](https://escp.lol))
-- [MyPayIndia PWA](https://github.com/MyPayIndiaDevs/pwa) ([go](https://app.mypayindia.com))
+
+## Other projects
+- [ex3](https://ex3.icu)
+- [pigeon](https://exerinity.com/pigeon)
 - [timein](https://github.com/exerinity/timein) (my C debut)
 
-### Organizations
-- [MyPayIndia](https://mypayindia.com): developer ([PWA](https://github.com/MyPayIndiaDevs/pwa))
-- [EX3 Corporation](https://corp.ex3.lol): founder, CEO, developer...
+I have no idea what else to put here, so just visit https://exerinity.com, I guess...
 
-I have no idea what else to put here, so just visit https://exerinity.gay or https://exerinity.com, I guess...
-
-### List of domains
+### List of domains I own and what they do
 - https://voxity.dev: [Voxity](https://github.com/exerinity/voxity)
 - https://escp.lol: [escope](https://github.com/exerinity/escope)
-- https://ex3.icu: Website for [ex3](https://exerinity.com/projects/ex3)
-- https://exerinity.com: [this](https://github.com/exerinity/exerinity.com)
-- https://exerinity.gay: [Onyx](https://github.com/exerinity/onyx)
+- https://ex3.icu: website for [ex3](https://exerinity.com/projects/ex3)
+- https://exerinity.com: everything
+- https://exerinity.gay: experiment
 - https://ex3.lol: Old, legacy website
   
 [![exerinity's GitHub stats](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)
