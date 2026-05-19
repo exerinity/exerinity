@@ -4,6 +4,7 @@ I like JavaScript, I guess... very cool and unique..
 ## Main projects
 - [Voxity](https://github.com/exerinity/voxity) ([go](https://voxity.dev))
 - [escope](https://github.com/exerinity/escope) ([go](https://escp.lol))
+- [MyPWAIndia](https://mypayindia.sbs) for [MyPayIndia](https://mypayindia.com)
 
 ## Other projects
 - [ex3](https://ex3.icu)
@@ -19,6 +20,7 @@ I have no idea what else to put here, so just visit https://exerinity.com, I gue
 - https://exerinity.com: everything
 - https://exerinity.gay: experiment
 - https://ex3.lol: Old, legacy website
+- https://mypayindia.sbs: MyPWAIndia
   
 [![exerinity's GitHub stats](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)
 
