@@ -2,9 +2,16 @@
 I like JavaScript, I guess... very cool and unique..
 
 ## Main projects
-- [Voxity](https://github.com/exerinity/voxity) ([go](https://voxity.dev))
-- [escope](https://github.com/exerinity/escope) ([go](https://escp.lol))
-- [MyPWAIndia](https://mypayindia.sbs) for [MyPayIndia](https://mypayindia.com)
+### [Voxity](https://voxity.dev) ([source](https://github.com/exerinity/voxity))
+A semi-advanced PWA music player written in vanilla JavaScript
+![](https://i.exerinity.com/voxity.png)
+
+### [escope](https://escp.lol) ([source](https://github.com/exerinity/escope))
+A fast short link generator which links self-destruct after some time
+![](https://i.exerinity.com/escopess.png)
+### [MyPWAIndia](https://mypayindia.sbs) ([source](https://github.com/exerinity/mypwaindia))
+The official [MyPayIndia](https://mypayindia.com) responsive web app
+![](https://i.exerinity.com/mypwaindia.png)
 
 ## Other projects
 - [ex3](https://ex3.icu)
