@@ -21,9 +21,14 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 - [pigeon](https://exerinity.com/pigeon): a minimalist AI chatbot for Discord fully setup in just one command
 - [timein](https://github.com/exerinity/timein) (my C debut): a dead-simple way to get the time of anywhere in the world in your terminal
 
-## Old
+## In the works
+- [Voxity Desktop](https://exerinity.com/voxity/desktop): Voxity but it scans your folders (not to be confused with the Electron __*shell*__, this is an actual app)
+- ex3.ts: TypeScript rewrite of ex3 from the ground up
+
+## Old/archived/hardly worked on anymore
 - [Scholia](https://github.com/exerinity/scholia): a notepad PWA with formatting, HTML exportation, cool counters and persistence
 - [Voxity's Electron shell](https://github.com/exerinity/voxity.electron): a lightweight Electron wrapper of Voxity with added MPRIS Linux support
+- [Spinnin' Records player](https://github.com/exerinity/spinnin): a simulation of how Spinnin' Records audio-only visualizers looked in the 2010s (based on [this](https://www.youtube.com/watch?v=UyI4v5sxT54); [open](https://spinnin.exerinity.com))
 
 ## Contributions
 - [MyPayIndia](https://mypayindia.com): https://mypayindia.com/api/v1/team
