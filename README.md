@@ -17,7 +17,7 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 ![](https://i.exerinity.com/mypwaindia.png)
 
 ## More projects
-- [ex3](https://ex3.icu): an experimental Swiss knife Discord bot with a handful of completely unrelated commands
+- [ex3](https://ex3.icu): an experimental Swiss army knife Discord bot with a handful of completely unrelated commands
 - [pigeon](https://exerinity.com/pigeon): a minimalist AI chatbot for Discord fully setup in just one command
 - [timein](https://github.com/exerinity/timein) (my C debut): a dead-simple way to get the time of anywhere in the world in your terminal
 
