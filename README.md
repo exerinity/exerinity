@@ -3,14 +3,14 @@ Welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if
 
 I hardly know how to use Git, which is why my repos have just one branch and all commits are entitled "m". Sorry in advance... (i know writing commit messages isnt rocket science but I DONT CAREEEEEEE)
 
-## Main projects
-### [Voxity](https://voxity.dev) ([source](https://github.com/exerinity/voxity))
+## My shit
+### [Voxity](https://voxity.dev) ([source](https://github.com/exerinity/voxity)) 
 A semi-advanced PWA music player written in vanilla JavaScript with a ton of features ([desktop version](https://exerinity.com/voxity/desktop) wip)
 
 ![](https://i.exerinity.com/voxity.png)
 
 ### [escope](https://escp.lol) ([source](https://github.com/exerinity/escope))
-A fast short link generator which links self-destruct after some time made with Workers
+A fast short link generator which links self-destruct after some time made with Workers - [also available in the command line!](https://github.com/exerinity/escope.cli)
 
 ![](https://i.exerinity.com/escopess.png)
 ### [MyPWAIndia](https://mypayindia.sbs) ([source](https://github.com/exerinity/mypwaindia))
@@ -38,6 +38,7 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 - https://ex3.icu: website for [ex3](https://exerinity.com/projects/ex3)
 - https://exerinity.com: everything
 - https://exerinity.gay: experiment
+- https://exerinity.dev: idk
 - https://ex3.lol: Old, legacy website
 - https://mypayindia.sbs: MyPWAIndia
 
@@ -46,7 +47,7 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 
 ...that's it, really. check https://exerinity.com/sites for more
   
-## Stats
+## [Stats](https://github.com/anuraghazra/github-readme-stats)
   
 [![exerinity's GitHub stats](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt)
 
