@@ -5,7 +5,7 @@ I hardly know how to use Git, which is why my repos have just one branch and all
 
 ## My shit
 ### [Voxity](https://voxity.dev) ([source](https://github.com/exerinity/voxity)) 
-A semi-advanced PWA music player written in vanilla JavaScript with a ton of features ([desktop version](https://exerinity.com/voxity/desktop) wip)
+A semi-advanced PWA music player written in vanilla JavaScript with a ton of features
 
 ![](https://i.exerinity.com/voxity.png)
 
