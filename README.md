@@ -9,6 +9,11 @@ A semi-advanced PWA music player written in vanilla JavaScript with a ton of fea
 
 ![](https://i.exerinity.com/voxity.png)
 
+### [Xebrine](https://xebrine.exerinity.com)
+Voxity's spiritual successor with about 70% of its features
+
+![](https://i.exerinity.com/xeb.png)
+
 ### [escope](https://escp.lol) ([source](https://github.com/exerinity/escope))
 A fast short link generator which links self-destruct after some time made with Workers - [also available in the command line!](https://github.com/exerinity/escope.cli)
 
@@ -24,8 +29,7 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 - [timein](https://github.com/exerinity/timein) (my C debut): a dead-simple way to get the time of anywhere in the world in your terminal
 
 ## In the works
-- [Voxity Desktop](https://exerinity.com/voxity/desktop): Voxity but it scans your folders (not to be confused with the Electron __*shell*__, this is an actual app)
-- ex3.ts: TypeScript rewrite of ex3 from the ground up
+- [Stigmi](https://exerinity.com/projects/stigmi): a small microblogging site
 
 ## Old/archived/hardly worked on anymore
 - [Scholia](https://github.com/exerinity/scholia): a notepad PWA with formatting, HTML exportation, cool counters and persistence
