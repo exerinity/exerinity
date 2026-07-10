@@ -1,4 +1,4 @@
-# /// exerinity *(“ecksa-rinity”)* ///
+# haii!!! :33 haiii ^_^ hewwo!!1!1! >\_<  :333333
 Welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if not just everything I've made was created because I couldn't find something exactly right to fit my needs. Which translates to, all of this is absolute lunacy code, or rip-offs of things through the eyes of someone unhinged. Most of my code is in JavaScript. Enjoy!!
 
 I hardly know how to use Git, which is why my repos have just one branch and all commits are entitled "m". Sorry in advance... (i know writing commit messages isnt rocket science but I DONT CAREEEEEEE)
