@@ -39,7 +39,6 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 ## List of domains I own and what they do
 - https://voxity.dev: [Voxity](https://github.com/exerinity/voxity)
 - https://escp.lol: [escope](https://github.com/exerinity/escope)
-- https://ex3.icu: website for [ex3](https://exerinity.com/projects/ex3)
 - https://exerinity.com: everything
 - https://exerinity.gay: experiment
 - https://exerinity.dev: idk
