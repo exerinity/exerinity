@@ -1,5 +1,5 @@
 # haii!!! :33 haiii ^_^ hewwo!!1!1! >\_<  :333333
-Welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if not just everything I've made was created because I couldn't find something exactly right to fit my needs. Which translates to, all of this is absolute lunacy code, or rip-offs of things through the eyes of someone unhinged. Most of my code is in JavaScript. Enjoy!!
+Hey - and welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if not everything I've made was created because I couldn't find something exactly right to fit my needs. Which translates to, all of this is absolute lunacy code, or rip-offs of things through the eyes of someone unhinged. Most of my code is in JavaScript. Enjoy!!
 
 I hardly know how to use Git, which is why my repos have just one branch and all commits are entitled "m". Sorry in advance... (i know writing commit messages isnt rocket science but I DONT CAREEEEEEE)
 
@@ -10,7 +10,7 @@ A semi-advanced PWA music player written in vanilla JavaScript with a ton of fea
 ![](https://i.exerinity.com/voxity.png)
 
 ### [Xebrine](https://xebrine.exerinity.com)
-Voxity's spiritual successor with about 70% of its features
+Voxity's spiritual successor with about 70% of its features, made in React, with an insane amount of shit going on behind the scenes
 
 ![](https://i.exerinity.com/xeb.png)
 
@@ -23,13 +23,12 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 
 ![](https://i.exerinity.com/mypwaindia.png)
 
-## More projects
-- [ex3](https://ex3.icu): an experimental Swiss army knife Discord bot with a handful of completely unrelated commands
-- [pigeon](https://exerinity.com/pigeon): a minimalist AI chatbot for Discord fully setup in just one command (in dire need of a rewrite)
-- [timein](https://github.com/exerinity/timein) (my C debut): a dead-simple way to get the time of anywhere in the world in your terminal
+## Other stuff
+- [ex3](https://ex3.icu): an experimental Swiss army knife Discord bot with a handful of completely unrelated commands - my longest running project; since 2022
+- [timein](https://github.com/exerinity/timein): a dead-simple way to get the time of anywhere in the world in your terminal (literally `timein stockholm`)
 
 ## In the works
-- [Stigmi](https://exerinity.com/projects/stigmi): a small microblogging site
+- [Stigmi](https://exerinity.com/projects/stigmi): a tiny microblogging site made in tribute of Twitter in the early 2010s
 
 ## Old/archived/hardly worked on anymore
 - [Scholia](https://github.com/exerinity/scholia): a notepad PWA with formatting, HTML exportation, cool counters and persistence
@@ -39,14 +38,14 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 ## List of domains I own and what they do
 - https://voxity.dev: [Voxity](https://github.com/exerinity/voxity)
 - https://escp.lol: [escope](https://github.com/exerinity/escope)
-- https://exerinity.com: everything
+- https://exerinity.com: fuckin everything
 - https://exerinity.gay: experiment
-- https://exerinity.dev: idk
 - https://ex3.lol: Old, legacy website
 - https://mypayindia.sbs: MyPWAIndia
 
 ## Where to find me
 - [Twitter](https://exerinity.com/twitter)
+- [Bluesky](https://exerinity.com/bluesky)
 
 ...that's it, really. check https://exerinity.com/sites for more
   
@@ -56,5 +55,3 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 
 
 [![](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt)](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=cobalt&cachebuster=skibidi38934)
-
-Profile picture source: https://unsplash.com/photos/a-group-of-stars-that-are-in-the-sky-AWnctsUQJB8
