@@ -1,3 +1,4 @@
+# haii!!! :33 haiii ^_^ hewwo!!1!1! >////<
 Welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if not everything I've made was created because I couldn't find something exactly right to fit my needs. Which translates to, all of this is absolute lunacy code, or rip-offs of things through the eyes of someone unhinged. Most of my code is in JavaScript. Enjoy!!
 
 ## Showcase
@@ -25,4 +26,4 @@ The official [MyPayIndia](https://mypayindia.com) responsive web app made in Rea
 [![exerinity's GitHub stats](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=nord)](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=nord)
 
 
-![](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=nord&hide=scss,python,typescript,css,html)
+[![](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=nord&hide=scss,python,css,html,gleam,shell,dockerfile,makefile,nix,procfile)](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=nord&hide=scss,python,css,html,gleam,shell,dockerfile,makefile,nix,procfile)
