@@ -7,7 +7,7 @@ A semi-advanced PWA music player written in vanilla JavaScript with a ton of fea
 
 ![](https://i.exerinity.com/voxity.png)
 
-### [Xebrine](https://xebrine.exerinity.com)
+### [Xebrine](https://xebrine.exerinity.com) ([source](https://github.com/exerinity/xebrine)) 
 Voxity's spiritual successor with about 70% of its features, made in React, with an insane amount of shit going on behind the scenes
 
 ![](https://i.exerinity.com/xeb.png)
