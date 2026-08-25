@@ -8,12 +8,12 @@ A semi-advanced PWA music player written in vanilla JavaScript with a ton of fea
 ![](https://i.exerinity.com/voxity.png)
 
 ### [Xebrine](https://xebrine.exerinity.com) ([source](https://github.com/exerinity/xebrine)) 
-Voxity's spiritual successor with about 70% of its features, made in React, with an insane amount of shit going on behind the scenes
+Xebrine is the heavy-duty spiritual successor to Voxity, made in React, with an auto mix, Last.fm scrobbling, folder scanning, equalizers, and a ton of other stuff
 
 ![](https://i.exerinity.com/xeb.png)
 
 ### [escope](https://escp.lol) ([source](https://github.com/exerinity/escope))
-A fast short link generator which links self-destruct after some time made with Workers - [also available in the command line!](https://github.com/exerinity/escope.cli)
+"Ephemeral Scoped Control of Persistent Endpoints" - a service about creating redirect links, akin to something like Bit.ly, only anonymous, and well... ephemeral. [Also has a command line wrapper](https://github.com/exerinity/escope.cli)
 
 ![](https://i.exerinity.com/escopess.png)
 ### [MyPWAIndia](https://mypayindia.sbs) ([source](https://github.com/exerinity/mypwaindia))
