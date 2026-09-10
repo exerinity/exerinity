@@ -11,11 +11,6 @@ A semi-advanced PWA music player written in vanilla JavaScript with a ton of fea
 Xebrine is the heavy-duty spiritual successor to Voxity, made in React, with an auto mix, Last.fm scrobbling, folder scanning, equalizers, and a ton of other stuff
 
 ![](https://i.exerinity.com/xeb.png)
-
-### [escope](https://escp.lol) ([source](https://github.com/exerinity/escope))
-"Ephemeral Scoped Control of Persistent Endpoints" - a service about creating redirect links, akin to something like Bit.ly, only anonymous, and well... ephemeral. [Also has a command line wrapper](https://github.com/exerinity/escope.cli)
-
-![](https://i.exerinity.com/escopess.png)
 ### [MyPWAIndia](https://mypayindia.sbs) ([source](https://github.com/exerinity/mypwaindia))
 The official [MyPayIndia](https://mypayindia.com) responsive web app made in React with a lot of extra toys and gizmos
 
