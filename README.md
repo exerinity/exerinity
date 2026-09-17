@@ -1,5 +1,9 @@
 # haii!!! :33 haiii ^_^ hewwo!!1!1! >////<
-Welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if not everything I've made was created because I couldn't find something exactly right to fit my needs. Which translates to, all of this is absolute lunacy code, or rip-offs of things through the eyes of someone unhinged. Most of my code is in JavaScript. Enjoy!!
+Welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if not everything I've made was created because I couldn't find something exactly right to fit my needs. Which translates to, all of this is absolute lunacy code, or rip-offs of things through the eyes of someone unhinged. Enjoy!!
+
+I predominantly use TypeScript and JavaScript, but I also know some bits of C, Scala, and Rust. I also predominantly use React, vanilla JavaScript, and vanilla CSS.
+
+C for [timein](https://github.com/exerinity/timein), Rust for [Xebrine's icon generator](https://github.com/exerinity/xebrine/tree/main/tools/icon-gen) and parts of [Stigmi](https://stig.exerinity.com), and Scala for a fair chunk of [Stigmi](https://stig.exerinity.com).
 
 ## My shit
 ### [Voxity](https://voxity.dev) ([source](https://github.com/exerinity/voxity)) 
@@ -8,22 +12,25 @@ A semi-advanced PWA music player written in vanilla JavaScript with a ton of fea
 ![](https://i.exerinity.com/voxity.png)
 
 ### [Xebrine](https://xebrine.exerinity.com) ([source](https://github.com/exerinity/xebrine)) 
-Xebrine is the heavy-duty spiritual successor to Voxity, made in React, with an auto mix, Last.fm scrobbling, folder scanning, equalizers, and a ton of other stuff
+An advanced PWA desktop music player made with React with a ton more of features
 
 ![](https://i.exerinity.com/xeb.png)
 ### [MyPWAIndia](https://mypayindia.sbs) ([source](https://github.com/exerinity/mypwaindia))
-The official [MyPayIndia](https://mypayindia.com) responsive web app made in React with a lot of extra toys and gizmos
+The official [MyPayIndia](https://mypayindia.com) responsive web app made with React with a lot of extra toys and gizmos
 
 ![](https://i.exerinity.com/mypwaindia.png)
 
+### [Stigmi](https://stig.exerinity.com)
+A small and simple microblogger written in JavaScript/Scala/Rust/EJS
+
+![](https://i.exerinity.com/stigmi.png?cachebust=cock)
+
 ## More
 - [timein](https://github.com/exerinity/timein): a tiny CLI tool for getting the time of another city or offset instantly
-- [Stigmi](https://stig.exerinity.com): a microblogger site
 - [ex3](https://exerinity.com/ex3): my old and bizarre Discord bot
 
 ## In the works
-- **Broadview**: a customizable Hacker News viewer with offline saving, a *broad viewer*
-- **ex4**: the Workers-based successor of ex3
+- **Broadview**: a customizable & comfortable Hacker News viewer with offline saving (either as you read or an automatic mass-download), a *broad viewer*
 
 ### [Full list](https://exerinity.com/work)
   
