@@ -1,7 +1,7 @@
 # haii!!! :33 haiii ^_^ hewwo!!1!1! >////<
 Welcome to my extremely bizarre and untidy GitHub profile! Almost everything, if not everything I've made was created because I couldn't find something exactly right to fit my needs. Which translates to, all of this is absolute lunacy code, or rip-offs of things through the eyes of someone unhinged. Enjoy!!
 
-I predominantly use TypeScript and JavaScript, but I also know some bits of C, Scala, and Rust. I also predominantly use React, vanilla JavaScript, and vanilla CSS.
+I predominantly use TypeScript and JavaScript, but I also know some bits of C and Scala. I predominantly work with React, vanilla JavaScript, and vanilla CSS. I heavily dislike Tailwind CSS.
 
 C for [timein](https://github.com/exerinity/timein), Rust for [Xebrine's icon generator](https://github.com/exerinity/xebrine/tree/main/tools/icon-gen) and parts of [Stigmi](https://stig.exerinity.com), and Scala for a fair chunk of [Stigmi](https://stig.exerinity.com).
 
