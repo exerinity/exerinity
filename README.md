@@ -7,7 +7,7 @@ I predominantly write in TypeScript and JavaScript, but I also know some bits of
 ### [Xebrine](https://xebrine.exerinity.com) ([source](https://github.com/exerinity/xebrine)) 
 An advanced PWA desktop music player made with React with a ton more features
 
-![](https://espresso.exerinity.com/xebr/xebscreenshots/xeb_3.png)
+![](https://espresso.exerinity.com/xebr/xebscreenshots/xeb_1.png)
 
 ### [Voxity](https://voxity.dev) ([source](https://github.com/exerinity/voxity)) 
 A semi-advanced PWA music player written in vanilla JavaScript with a ton of features
