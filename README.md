@@ -18,6 +18,8 @@ A semi-advanced PWA music player written in vanilla JavaScript with a ton of fea
   
 ## [Stats](https://github.com/anuraghazra/github-readme-stats)
   
-[![exerinity's GitHub stats](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=nord)](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=nord) [![](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=nord&hide=scss,python,css,html,gleam,shell,dockerfile,makefile,nix,procfile)](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=nord&hide=scss,python,css,html,gleam,shell,dockerfile,makefile,nix,procfile)
+[![exerinity's GitHub stats](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=nord)](https://ghs.exerinity.gay/api?username=exerinity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=nord)
 
-### [Website](https://exerinity.com) - [Secondary](https://exerinity.gay) - [Socials](https://exerinity.com/sites) - [Email/Signal](https://exerinity.com/hello)
+[![Most used languages](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=nord&hide=scss,python,css,html,gleam,shell,dockerfile,makefile,nix,procfile,pony,c,plpgsql,rust)](https://ghs.exerinity.gay/api/top-langs?username=exerinity&show_icons=true&locale=en&layout=compact&theme=nord&hide=scss,python,css,html,gleam,shell,dockerfile,makefile,nix,procfile,pony,c,plpgsql,rust)
+
+### [Website](https://exerinity.com) - [Socials](https://exerinity.com/sites) - [Email/Signal](https://exerinity.com/hello)
